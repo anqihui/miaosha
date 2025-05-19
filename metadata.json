@@ -1,0 +1,12 @@
+{
+    "name": "USDT",
+    "symbol": "USDT",
+    "description": "Only Possible On Solana",
+    "image": "https://avatars.githubusercontent.com/u/88609838",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
